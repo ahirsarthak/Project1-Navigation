@@ -4,7 +4,7 @@
 
 In this project, **the goal is to train an agent to navigate a virtual world and collect as many yellow bananas as possible while avoiding blue bananas**
 
-![In Project 1, train an agent to navigate a large world.](images/navigation.gif)
+![In Project 1, train an agent to navigate a large world.](navigation.gif)
 
 ## Environment details
 
