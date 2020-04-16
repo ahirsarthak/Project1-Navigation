@@ -48,7 +48,7 @@ We address these instabilities with a novel variant of Q-learning, which uses tw
 
 ### Algorithm
 
-![Deep Q-Learning algorithm from Udacity course](./images/DQN.png)
+![Deep Q-Learning algorithm from Udacity course](./DQN.png)
 
 This algorithm screenshot is taken from the [Deep Reinforcement Learning Nanodegree course](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)
 
@@ -107,9 +107,9 @@ The Neural Networks use the Adam optimizer with a learning rate LR=5e-4 and are 
 
 Given the chosen architecture and parameters, our results are :
 
-![Training logs](images/training_logs.png)
+![Training logs](training_logs.png)
 
-![Score evolution during the training](images/score_plot.png)
+![Score evolution during the training](score_plot.png)
 
 **These results meets the project's expectation as the agent is able to receive an average reward (over 100 episodes) of at least +13, and in 1023 episodes only** (In comparison, according to Udacity's solution code for the project, their agent was benchmarked to be able to solve the project in fewer than 1800 episodes)
 
